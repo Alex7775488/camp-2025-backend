@@ -9,5 +9,5 @@ dependencies = [
 ]
 
 
-[uv.lock]
+[tool.uv]
 project=false
